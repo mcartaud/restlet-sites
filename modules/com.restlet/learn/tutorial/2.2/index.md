@@ -59,7 +59,7 @@ ClientResource class. If you need multi-threading or more control it is
 still possible to manipulate use the Client connector class or the
 Request objects directly. The example below how to set some preferences
 in your client call, like a referrer URI. It could also be the languages
-and media types you prefer to receive as a response:
+and media types you prefer to receive as a response: 
 
 ~~~~ {.java:nocontrols:nogutter}
 // Create the client resource
